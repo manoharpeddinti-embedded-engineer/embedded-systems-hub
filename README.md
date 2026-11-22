@@ -25,6 +25,7 @@ One practical starting point for learning embedded systems, preparing for interv
 | Hands-on C practice | [Practical Exercises](C-EMBEDDED-C-PRACTICAL-EXERCISES.md) | Coding, bit-manipulation, debugging, and embedded-style exercises. |
 | Career research | [Company Directory](EMBEDDED-COMPANY-DIRECTORY.md) | 75 focused companies/routes and a broader 300+ employer discovery list. |
 | Job-role selection | [Role Map](EMBEDDED-AND-SEMICONDUCTOR-ROLE-MAP.md) | Embedded, firmware, hardware, validation, VLSI, and semiconductor role families. |
+| Career story | [My Journey: Tier 3 to Semiconductor](https://github.com/manoharpeddinti-embedded-engineer/manohar-journey.github.io/tree/main) | A personal, phase-by-phase account of moving from a tier-3 college toward leading semiconductor companies. |
 
 ## Complete roadmap
 
@@ -78,6 +79,10 @@ _Beginner-to-advanced project ideas, project documentation templates, and portfo
 - [Embedded and Semiconductor Role Map](EMBEDDED-AND-SEMICONDUCTOR-ROLE-MAP.md) — role families, what each role does, and the search terms to use.
 
 These are routes to explore, not a claim that every company is a core semiconductor employer or is hiring now.
+
+## My journey
+
+- [From Tier 3 to Semiconductor: My Journey](https://github.com/manoharpeddinti-embedded-engineer/manohar-journey.github.io/tree/main) — a personal phase-by-phase account of the learning, projects, internships, and career moves behind the journey into the semiconductor industry.
 
 ## Tools and setup
 
